@@ -46,7 +46,7 @@ module.exports = {
             type: "Point",
             coordinates: [longitude, latitude]
         }
-
+        
         const responseUpdate = await Dev.updateOne({_id: id},{
             name,
             techs: techsArray,
