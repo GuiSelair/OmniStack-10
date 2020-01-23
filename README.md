@@ -67,4 +67,4 @@ Guilherme Selair – [@GuiSelair](https://github.com/GuiSelair)
 ## Referência
  Curso ministrado pela empresa [Rocketseat](https://rocketseat.com.br/) pelo professor [Diego Fernandes](https://github.com/diego3g).
 
- Parte desse conteúdo foi retirado do repositório oficial da semana OmniStack 09, [ACESSE AQUI](https://github.com/Rocketseat/semana-omnistack-9)
+ Parte desse conteúdo foi retirado do repositório oficial da semana OmniStack 10, [ACESSE AQUI](https://github.com/Rocketseat/semana-omnistack-10)
